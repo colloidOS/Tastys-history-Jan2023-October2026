@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Pedro Barroso - Converse Crafted in Italy campaign….png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Pedro Barroso - Converse Crafted in Italy campaign…@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Pedro Barroso - Converse Crafted in Italy campaign…@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
